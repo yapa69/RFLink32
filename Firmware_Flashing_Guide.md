@@ -66,7 +66,7 @@ Then pick your model.
 
 ![esp_tool2](pictures/espressif_tool_pick_model.png)
 
-Select your firmware file and make sure you input `address=0x10000`, select your COM PORT and click start.
+Select your firmware file and make sure you input `address=0x1000`, select your COM PORT and click start.
 
 ![esp_tool3](pictures/espressif_tool_fill_fields.png)
 
